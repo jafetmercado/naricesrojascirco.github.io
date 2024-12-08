@@ -33,7 +33,7 @@ body {
     display: flex;
     justify-content: space-between; /* Distribuye los encabezados uniformemente */
     width: 100%;
-    padding: 0 5px; /* Añade padding para un poco de espacio en los lados */
+    
 }
 
 .a {
@@ -41,7 +41,7 @@ body {
     flex: 1; /* Distribuye el ancho equitativamente */
     text-align: center;
     margin:  9px; /* Añade espacio entre los encabezados */
-    padding: 10px; /* Añade padding interno a cada h2 */
+    
     border-radius: 5px; /* Bordes redondeados */
 
  
